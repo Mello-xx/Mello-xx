@@ -1,6 +1,7 @@
 # 💫 About Me:
- Hi! I’m a recent Artificial Intelligence graduate from Durham College, <br>currently working on personal AI projects and building backend systems<br>with Python and PostgreSQL. I’m passionate about machine learning,<br>automation, and data-driven solutions. I'm exploring generative AI and <br>cloud deployment, and I love collaborating on innovative tech projects. <br>Fun fact: I once trained a neural network to generate jokes,<br>some were surprisingly funny!
 
+Hi! I’m a recent Artificial Intelligence graduate with a strong foundation in Python development, data analysis, and machine learning. I’m currently building personal AI projects and backend systems using Python, PostgreSQL, and automation tools. I'm especially passionate about creating data-driven solutions and experimenting with generative AI models and cloud deployments. I thrive on collaboration and enjoy tackling real-world problems with innovative tech.
+Fun fact: I once built a sentiment analyzer that could (almost) tell when my code was angry
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/binary_nomad_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayur-raval2302) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Raval_MAyur_23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayurraval2302@gmail.com) 
